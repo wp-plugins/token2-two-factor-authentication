@@ -41,6 +41,7 @@ As an admin, you can go to the users page. Then, select the user in the list, an
 == Screenshots ==
 1. Form requesting Token2 OTP (second factor)
 2. Enabling two-factor authentication on user's profile
+3. Enabling two-factor authentication on user's profile - QR code
 
 == Changelog ==
 Initial version, no change log
