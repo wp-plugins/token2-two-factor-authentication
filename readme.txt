@@ -8,7 +8,7 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin adds token2 two-factor authentication to WordPress.
+Protect your WordPress site with Token2 two-factor authentication
 
 == Description ==
 Token2 helps you proctect your WordPress site from hackers using simple two-factor authentication.
