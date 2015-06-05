@@ -39,7 +39,8 @@ Yes, as an admin you can go to the settings page of the plugin, select the user 
 As an admin, you can go to the users page. Then, select the user in the list, and click edit. Go to the bottom, enter the user's mobile number and country code, and click "Update user."
 
 == Screenshots ==
-1. token2 Two-Factor Authentication page.
+1. Form requesting Token2 OTP (second factor)
+2. Enabling two-factor authentication on user's profile
 
 == Changelog ==
 Initial version, no change log
