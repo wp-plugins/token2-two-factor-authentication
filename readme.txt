@@ -1,4 +1,4 @@
-=== token2 Two Factor Authentication ===
+=== Token2 Two Factor Authentication ===
 Contributors: token2
 Tags: authentication, token2, two factor, security, login, authenticate
 Requires at least: 3.2
