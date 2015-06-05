@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin adds token2 two-factor authentication to WordPress.
 
 == Description ==
-token2 helps you proctect your WordPress site from hackers using simple two-factor authentication.
+Token2 helps you proctect your WordPress site from hackers using simple two-factor authentication.
 
 You can get your free API key at [www.token2.com](https://www.token2.com/manage).
 
@@ -29,13 +29,13 @@ Plugin development is found at Token2.com
 = How can an user enable two-factor authentication? =
 The user should go to his or her WordPress profile page and add his or her mobile number and country code.
 
-= How can a user disable token2 after enabling it? =
+= How can a user disable Token2 after enabling it? =
 The user should return to his or her WordPress profile screen and disable token2 at the bottom.
 
 = Can an Admin can select specific user roles that should authenticate with token2 two-factor authentication? =
 Yes, as an admin you can go to the settings page of the plugin, select the user roles in the list, and click "Save Changes" to save the configuration.
 
-= How can the admin an admin force token2 two-factor authentication on a specific user? =
+= How can the admin an admin force Token2 two-factor authentication on a specific user? =
 As an admin, you can go to the users page. Then, select the user in the list, and click edit. Go to the bottom, enter the user's mobile number and country code, and click "Update user."
 
 == Screenshots ==
