@@ -1,0 +1,52 @@
+#token2-verify {
+  color: #777;
+  font-size: 14px;
+  width: 657px;
+  padding: 114px 0 0;
+  margin: auto;
+  min-height: 1000px;
+}
+#token2-verify h1 a {
+  margin: 0 auto;
+}
+#token2-verify form {
+  padding: 50px;
+}
+#token2-verify #token2-token{
+  width: 226px;
+}
+#token2-verify p {
+  padding-bottom: 40px;
+}
+#token2-verify p.italic-text {
+  font-size: 14px;
+  font-style: italic;
+}
+#token2-verify .step {
+  padding-bottom: 70px;
+}
+#token2-verify .step .description-step {
+  width: 232px;
+  color: #777;
+  padding-right: 40px;
+  line-height: 20px;
+  float: left;
+}
+#token2-verify .step .description-step .number{
+  color: #00799a;
+  font-weight: bold;
+}
+#token2-verify .button {
+  float: none;
+  padding: 3px 12px 2px;
+  height: 36px;
+  font-size: 14px;
+}
+#token2-verify .rsms {
+  display: inline-block;
+  margin-left: 25px;
+}
+#token2-verify .rsms img {
+  position: relative;
+  top: 9px;
+}

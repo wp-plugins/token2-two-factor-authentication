@@ -1,0 +1,33 @@
+# token2 WordPress Plugin
+
+This pluging add's [token2](http://www.token2.com) two-factor authentication to WordPress.
+
+With token2 you can control all aspects of Two Factor Authentication for your WordPress Blog.
+
+Tested from WordPress version 3.0 to 3.6
+
+## Installation
+
+1. Get your token2 API Key at www.token2.com/signup.
+2. Install the plugin either via your site's dashboard, or by downloading the plugin from WordPress.org and uploading the files to your server.
+3. Activate plugin through the WordPress Plugins menu.
+4. Navigate to Settings > token2 to enter your token2 API keys.
+
+
+## Frequently Asked Questions
+
+### How can a user enable Two-Factor Authentication?
+
+The user should go to WordPress profile page and add his mobile number and country code.
+
+### How can a user disable token2 after enabling it?
+
+The user should return to his or her WordPress profile screen and disable token2 at the bottom.
+
+### Can an Admin can select specific user roles that should authenticate with token2 Two Factor Authentication?
+
+Yes, as an admin you can go to settings page of plugin, select the user roles in the list and click Save Changes to save configuration.
+
+### How can the admin an admin force token2 Two Factor Authentication on a specific user?
+
+As an admin you can go to users page. Then select the user in the list and click edit. Go to the bottom an enter the user mobile number and contry code and click update user.

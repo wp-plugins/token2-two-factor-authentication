@@ -1,0 +1,8 @@
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Contributors:
+ethitter(http://www.ethitter.com):https://github.com/ethitter/token2-for-WP 
+token2(https://www.token2.com):https://github.com/token2/token2-wordpress
+
+
