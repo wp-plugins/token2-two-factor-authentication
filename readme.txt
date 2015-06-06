@@ -1,6 +1,6 @@
 === Token2 Two Factor Authentication ===
 Contributors: token2
-Tags: authentication, token2, two factor, security, login, authenticate
+Tags: authentication, token2, two factor, security, login, authenticate, twofactor, two-factor, totp, google authenticator, strong security
 Requires at least: 3.2
 Tested up to: 4.2.2
 Donate link: https://token2.com/
